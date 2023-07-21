@@ -12,3 +12,5 @@
 ### Запуск
 - Скачиваем репозиторий;
 - Открываем в браузере html файл.
+
+### Deploy: https://amo-crm-static-layout.vercel.app/
